@@ -1,7 +1,7 @@
 <h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.</h3>
 
 <h4>Currently working with </h4>
-  <object type="image/svg+xml" data="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg">
+  <object type="image/svg" data="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg">
   </object>
   <a href="https://rubyonrails.org/"><svg height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" /></a>
   
