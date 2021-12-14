@@ -1,14 +1,12 @@
-<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.</h3>
+<h2 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.</h2>
 
-<h4>Currently working with </h4>
-  <object type="image/svg" data="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg">
-  </object>
-  <a href="https://rubyonrails.org/"><svg height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" /></a>
+<h3>Currently working with </h3>
+  <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" style="filter: invert(10%) sepia(86%) saturate(6142%) hue-rotate(8deg) brightness(93%) contrast(118%);"/></a>
   
-<h3>
+<h3>Learning</h3>
   <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" /></a>
   
-<p>Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info!</p>
+<h2 align="center">Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info!</h2>
 
 <!--
 **gmrcp/gmrcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
