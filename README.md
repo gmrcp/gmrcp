@@ -1,6 +1,6 @@
-<h2 align="center">Hey! 🙋‍♂️<br><br>My name is Gonçalo and I'm a Web Developer!</h2>
+<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer!</h3>
 
-<br>
+<hr>
 
 <table align="center">
     <tr>
@@ -19,5 +19,7 @@
     </tr>
 </table>
 
-<h3 align="center">Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info about me!</h3>
+<hr>
+
+<h4 align="center">Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info about me!</h4>
 
