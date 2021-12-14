@@ -1,7 +1,7 @@
-### Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.
+<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.</h3>
 
-<p>Currently working with </p>
-  <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" /></a>
+<h4>Currently working with </h4>
+  <a href="https://rubyonrails.org/"><svg height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" /></a>
   
 <h3>
   <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" /></a>
