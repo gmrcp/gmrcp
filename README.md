@@ -12,6 +12,5 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="32" width="32" src="https://api.iconify.design/teenyicons/c-sharp-solid.svg?color=white" /></a>
   <a href="https://unity.com/"><img height="32" width="32" src="https://api.iconify.design/bx/bxl-unity.svg?color=white" /></a>
 </p> 
-  
-<br>
+
 <h3 align="center">Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info about me!</h3>
