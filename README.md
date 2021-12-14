@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer from Portugal.
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" href="#"/>
+<p>Currently working with </p>
+  <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/rubyonrails.svg" /></a>
+  
+<h3>
+  <a href="https://rubyonrails.org/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/csharp.svg" /></a>
+  
+<p>Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info!</p>
 
 <!--
 **gmrcp/gmrcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
