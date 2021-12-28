@@ -1,4 +1,4 @@
-<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Web Developer!</h3>
+<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Software Developer!</h3>
 
 <hr>
 
