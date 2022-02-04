@@ -6,7 +6,7 @@
     <tr>
         <th> ⚒ Currently working with:</th>
         <td align="center">
-            <a href="https://rubyonrails.org/"><img height="64" width="64" src="https://api.iconify.design/simple-icons/rubyonrails.svg?color=white" /></a>
+            <a href="https://rubyonrails.org/"><img height="64" width="64" src="https://api.iconify.design/simple-icons/nodejs.svg?color=white" /></a>
         </td>
     </tr>
     <!--
