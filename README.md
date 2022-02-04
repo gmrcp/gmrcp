@@ -9,6 +9,7 @@
             <a href="https://rubyonrails.org/"><img height="64" width="64" src="https://api.iconify.design/simple-icons/rubyonrails.svg?color=white" /></a>
         </td>
     </tr>
+    <!--
     <tr>
         <th> 📖 Learning:</th>
         <td>
@@ -23,3 +24,4 @@
 
 <h4 align="center">Visit <a href="https://gmrcp.github.io/">gmrcp.github.io</a> for more info about me!</h4>
 
+-->
