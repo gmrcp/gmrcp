@@ -1,7 +1,3 @@
-<h3 align="center">Hey! 🙋‍♂️ My name is Gonçalo and I'm a Software Developer!</h3>
-
-<hr>
-
 <table align="center">
     <tr>
         <th> ⚒ Currently working with:</th>
